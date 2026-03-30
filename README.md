@@ -5,7 +5,7 @@
 
 **Course:** CSA2001 – Fundamentals in AI and ML CO2 + CO6 Mapping: Knowledge Representation, Logic Programming, Prolog
 
-**Submitted by:** Tushar Yadav | 25BAI11329 | 31th November 2026
+**Submitted by:** Tushar Yadav | 25BAI11329 | 30th March 2026
 
 
 
